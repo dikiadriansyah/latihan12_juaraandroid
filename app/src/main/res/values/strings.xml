@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">latihan12_juaraandroid</string>
+    <string name="descriptionimage">Description Image</string>
+
+    <string name="dhiki">Dhiki Adriansyah</string>
+    <string name="fullstack">Fullstack engineer</string>
+    <string name="nohp">089616023080</string>
+    <string name="bornYear">14 oktober 1999</string>
+    <string name="email">diki725@gmail.com</string>
+</resources>
